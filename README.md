@@ -8,6 +8,8 @@
     <h1>Introducing my news site</h1>
     <h2>Games news</h2>
     <p>In the website "Games news" you can see interesting informstion about computer games. Today article is about the game Hollow Knight: Silksong</p>
+
+    <a href="">Click to go to another page</a>
   
   </body>
 </html>
