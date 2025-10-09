@@ -9,6 +9,7 @@
     <h2>Games news</h2>
     <p>In the website "Games news" you can see interesting informstion about computer games. Today article is about the game Hollow Knight: Silksong</p>
     <a href="my_news_danila_ulanov.html">Check to go to Game news</a>
+  <br/>
     <p>In the website "Gallary" you can see Gallary of cats </p>
     <a href="My_Gallary_Danila_Ulanov.html">Check to go to Gallery of cats</a>
   </body>
