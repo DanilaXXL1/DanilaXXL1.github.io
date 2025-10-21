@@ -12,5 +12,8 @@
   <h2>Gallery</h2>
     <p>In the website "Gallary" you can see Gallary of cats </p>
     <a href="My_Gallary_Danila_Ulanov.html">Check to go to Gallery of cats</a>
+  <h2>Comparing smartphones</h2>
+    <p>In the website "Comparing smartphones" you can compare two smartphones Samsung Galaxy S25 Ultra and Apple iPhone 17 Pro Max </p>
+    <a href="table_Danila_Ulanov.html">Check to go to Comparing smartphones</a>
   </body>
 </html>
